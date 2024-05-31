@@ -6,7 +6,7 @@ About Me
 
 
 # Hello, I'm Milan Adhikari
-<a href="https://linkedin.com/milanad"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/milanad"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an Experienced Software QA Engineer Committed to Elevating Software Quality.
 
