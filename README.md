@@ -40,7 +40,28 @@ I am an experienced Software QA Engineer committed to elevating software quality
 |Languages:                                     |English, Nepali, Hindi
 |Other:	                                        |Jenkins, Git, Docker, Kubernetes, Chef, Puppet
 ## Tools
+### TestRail
 
+* know how to create test cases and test suits
+* able to run created test cases
+* know how to use dashboards and statistics
+### Jira
+
+* know how to create bug reports
+* able to create projects and track their progress
+* SoapUI
+
+### Browser developer tools
+
+### VirtualBox
+
+* able to set up and operate virtual machines
+### Trello and Notion
+
+* know how to use Kanban boards and track project progress
+### Mind maps & diagrams
+
+* know how to design beautifully simple mind maps
 ## Certifications
 | Certification Courses                          | Certification with |
 |------------------------------------------------|--------------------------------|
