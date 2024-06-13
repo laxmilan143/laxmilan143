@@ -65,7 +65,7 @@ I have my Resume to download [Milan Resume](https://docs.google.com/document/d/1
 ## Certifications
 | Certification Courses                          | Certification with |
 |------------------------------------------------|--------------------------------|
-|Software Testing and Quality Assurance Training |Careerist.com
+|Software Testing and Quality Assurance Training |(Careerist.com)
 |Manual and Automation (UFT) QA Course           |Greatoriginit.com
 ## Examples Of my work
   ### Test cases and work in TestRail
