@@ -7,7 +7,6 @@
 * [Examples Of my work](https://github.com/laxmilan143/laxmilan143/edit/main/README.md#examples-of-my-work)
    *   [Test cases and work in TestRail](https://github.com/laxmilan143/laxmilan143/edit/main/README.md#test-cases-and-work-in-testrail)
    *   [Bug report and work in Jira](https://github.com/laxmilan143/laxmilan143/edit/main/README.md#bug-report-and-work-in-jira)
-   *   [Mindmaps and diagrams](https://github.com/laxmilan143/laxmilan143/edit/main/README.md#mindmaps-and-diagrams)
    *   [Scripts for PICT (Pairwise testing)](https://github.com/laxmilan143/laxmilan143/edit/main/README.md#scripts-for-pict-pairwise-testing)
 * [Books I have read](https://github.com/laxmilan143/laxmilan143/edit/main/README.md#books-i-have-read)
 
@@ -38,7 +37,7 @@ I have my Resume to download [Milan Resume](https://docs.google.com/document/d/1
 |API testing:	                                  |Charles Proxy, REST API, Postman
 |Database:                                      |MySQL
 |Languages:                                     |English, Nepali, Hindi
-|Other:	                                        |Jenkins, Git, Docker, Kubernetes, Chef, Puppet
+|Other:	                                        |Basic knowledge of Jenkins, Git, Docker, Kubernetes, Chef, Puppet
 ## Tools
 ### TestRail
 
@@ -65,11 +64,11 @@ I have my Resume to download [Milan Resume](https://docs.google.com/document/d/1
 ## Certifications
 | Certification Courses                          | Certification with |
 |------------------------------------------------|--------------------------------|
-|Software Testing and Quality Assurance Training |(Careerist.com)
+|Software Testing and Quality Assurance Training |careerist.com
 |Manual and Automation (UFT) QA Course           |Greatoriginit.com
+|
 ## Examples Of my work
   ### Test cases and work in TestRail
   ### Bug report and work in Jira
-  ### Mindmaps and diagrams
   ### Scripts for PICT (Pairwise testing)
 ## Books I have read
