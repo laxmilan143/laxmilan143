@@ -68,7 +68,10 @@ I have my Resume to download [Milan Resume](https://docs.google.com/document/d/1
 |Manual and Automation (UFT) QA Course           |Greatoriginit.com
 |
 ## Examples Of my work
-  ### Test cases and work in TestRail
+  ### Test Scenarios and Test Cases
+  - [Google doc to creat scenario and test cases](https://docs.google.com/spreadsheets/d/1PNaOdxsuUc-jhpQBJURO3tsrp3IRZv58/edit?usp=sharing&ouid=110714264034552910603&rtpof=true&sd=true)
+  - [Test cases](https://docs.google.com/spreadsheets/d/1dbFiFPUWvMa02wOmQHzVndHAlX6luAw18HrXOUL62Ks/edit?usp=sharing)
   ### Bug report and work in Jira
+As a Software QA Engineer, I utilized Jira to create detailed bug reports, tracking and managing issues throughout the software development lifecycle. My responsibilities included documenting bug descriptions, steps to reproduce, expected and actual results, assigning severity levels, and collaborating with developers to ensure timely resolution. This process ensured the delivery of high-quality software and enhanced team efficiency.
   ### Scripts for PICT (Pairwise testing)
 ## Books I have read
