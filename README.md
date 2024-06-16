@@ -72,6 +72,8 @@ I have my Resume to download [Milan Resume](https://docs.google.com/document/d/1
   - [Google doc to creat scenario and test cases](https://docs.google.com/spreadsheets/d/1PNaOdxsuUc-jhpQBJURO3tsrp3IRZv58/edit?usp=sharing&ouid=110714264034552910603&rtpof=true&sd=true)
   - [Test cases](https://docs.google.com/spreadsheets/d/1dbFiFPUWvMa02wOmQHzVndHAlX6luAw18HrXOUL62Ks/edit?usp=sharing)
   ### Bug report and work in Jira
-As a Software QA Engineer, I utilized Jira to create detailed bug reports, tracking and managing issues throughout the software development lifecycle. My responsibilities included documenting bug descriptions, steps to reproduce, expected and actual results, assigning severity levels, and collaborating with developers to ensure timely resolution. This process ensured the delivery of high-quality software and enhanced team efficiency.
+As a Software QA Engineer, I utilized Jira to create detailed bug reports and track and manage issues throughout the software development lifecycle. My responsibilities included documenting bug descriptions, steps to reproduce, expected and actual results, assigning severity levels, and collaborating with developers to ensure timely resolution. This process ensured the delivery of high-quality software and enhanced team efficiency.
+- [Bug report work example](https://docs.google.com/spreadsheets/d/15h974q6W-WX1D9AgTo_ViQe4ylI63nJ6CG2I-xFiqLw/edit?usp=sharing)
+- [Document I follow to write a bug report](https://drive.google.com/file/d/1UMW_nC7MU3XZ4PzNyp4SFGROdbDEuika/view?usp=sharing)
   ### Scripts for PICT (Pairwise testing)
 ## Books I have read
