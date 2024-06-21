@@ -6,7 +6,7 @@
 * [Certifications](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#certifications)
 * [Examples Of my work](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#examples-of-my-work)
    *   [Test cases](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#test-scenarios-and-test-cases)
-   *   [Bug report and work in Jira](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#bug-report-and-work-in-jira)
+   *   [Bug report](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#bug-report-and-work-in-jira)
    *   [Scripts for PICT (Pairwise testing)](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#scripts-for-pict-pairwise-testing)
 * [Books I have read](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#bug-report-and-work-in-jira)
 
@@ -75,9 +75,9 @@ I have my Resume to download [Milan Resume](https://docs.google.com/document/d/1
   ### Test Scenarios and Test Cases
   - [Google doc to creat scenario and test cases](https://docs.google.com/spreadsheets/d/1PNaOdxsuUc-jhpQBJURO3tsrp3IRZv58/edit?usp=sharing&ouid=110714264034552910603&rtpof=true&sd=true)
   - [Test cases](https://docs.google.com/spreadsheets/d/1dbFiFPUWvMa02wOmQHzVndHAlX6luAw18HrXOUL62Ks/edit?usp=sharing)
-  ### Bug report and work in Jira
+  ### Bug report
 As a Software QA Engineer, I utilized Jira to create detailed bug reports and track and manage issues throughout the software development lifecycle. My responsibilities included documenting bug descriptions, steps to reproduce, expected and actual results, assigning severity levels, and collaborating with developers to ensure timely resolution. This process ensured the delivery of high-quality software and enhanced team efficiency.
 - [Bug report work example](https://docs.google.com/spreadsheets/d/15h974q6W-WX1D9AgTo_ViQe4ylI63nJ6CG2I-xFiqLw/edit?usp=sharing)
-- [Document I follow to write a bug report](https://drive.google.com/file/d/1UMW_nC7MU3XZ4PzNyp4SFGROdbDEuika/view?usp=sharing)
+- [Bug report work example](https://docs.google.com/spreadsheets/d/1afxguD3vdMT2iZST0fpziBPTAyI5wONSPLac903zLa8/edit?usp=sharing)
   ### Scripts for PICT (Pairwise testing)
 ## Books I have read
