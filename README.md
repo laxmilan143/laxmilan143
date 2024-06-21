@@ -1,5 +1,5 @@
 # Portfolio
-* [About Me](https://github.com/laxmilan143/laxmilan143/edit/main/README.md#hello-im-milan-adhikari)
+* [About Me](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#hello-im-milan-adhikari)
 * [CV](https://github.com/laxmilan143/laxmilan143/edit/main/README.md#cv)
 * [Skills](https://github.com/laxmilan143/laxmilan143/edit/main/README.md#skills)
 * [Tools](https://github.com/laxmilan143/laxmilan143/edit/main/README.md#tools)
