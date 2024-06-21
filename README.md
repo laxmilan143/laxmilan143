@@ -2,7 +2,7 @@
 * [About Me](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#hello-im-milan-adhikari)
 * [CV](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#cv)
 * [Skills](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#skills)
-* [Tools](https://github.com/laxmilan143/laxmilan143/edit/main/README.md#tools)
+* [Tools](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#tools)
 * [Certifications](https://github.com/laxmilan143/laxmilan143/edit/main/README.md#certifications)
 * [Examples Of my work](https://github.com/laxmilan143/laxmilan143/edit/main/README.md#examples-of-my-work)
    *   [Test cases and work in TestRail](https://github.com/laxmilan143/laxmilan143/edit/main/README.md#test-cases-and-work-in-testrail)
