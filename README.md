@@ -64,7 +64,10 @@ I have my Resume to download [Milan Resume](https://docs.google.com/document/d/1
 ## Certifications
 | Certification Courses                          | Certification with |
 |------------------------------------------------|--------------------------------|
-|Software Testing and Quality Assurance Training |careerist.com
+|Software Testing and Quality Assurance Training |[careerist](https://app.careerist.com/auth/login)
+|API Testing 3.0|[careerist](https://app.careerist.com/auth/login)
+|SQL basics|[careerist](https://app.careerist.com/auth/login)
+|Mini test automation using Python, Selenium, and Pytest|[careerist](https://app.careerist.com/auth/login)
 |Manual and Automation (UFT) QA Course           |Greatoriginit.com
 |Selenium WebDriver with Java -Basics to Advanced+Frameworks|[From Udemy](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/?couponCode=24T6MT62024)
 ## Examples Of my work
