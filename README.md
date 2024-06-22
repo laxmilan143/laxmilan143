@@ -5,7 +5,7 @@
 * [Tools](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#tools)
 * [Certifications](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#certifications)
 * [Examples Of my work](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#examples-of-my-work)
-   *   [Test cases](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#test-scenarios-and-test-cases)
+   *   [Test cases](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#test-cases)
    *   [Bug report](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#bug-report-and-work-in-jira)
    *   [Scripts for PICT (Pairwise testing)](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#scripts-for-pict-pairwise-testing)
 * [Books I have read](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#bug-report-and-work-in-jira)
@@ -76,7 +76,7 @@ I have my Resume to download [Milan Resume](https://docs.google.com/document/d/1
 As a Software QA Engineer, I have developed and executed comprehensive test cases to ensure software quality and performance. My test cases encompass a variety of testing methodologies, including functional testing, regression testing, integration testing, performance/load testing, and user acceptance testing. Each test case is meticulously crafted to cover different scenarios and edge cases, ensuring thorough validation of application functionalities.
 
 I utilize tools such as Jira to document and track bugs, ensuring clear communication and efficient resolution of issues. My test cases are detailed with clear steps, expected results, and actual outcomes, providing a structured approach to identifying and resolving defects. This systematic testing ensures that the software meets technical and business requirements, delivering a reliable and user-friendly experience.
-  - [Test cases](https://docs.google.com/spreadsheets/d/1dbFiFPUWvMa02wOmQHzVndHAlX6luAw18HrXOUL62Ks/edit?usp=sharing)
+  - [Example of Test cases](https://docs.google.com/spreadsheets/d/1dbFiFPUWvMa02wOmQHzVndHAlX6luAw18HrXOUL62Ks/edit?usp=sharing)
   ### Bug report
 As a Software QA Engineer, I utilized Jira to create detailed bug reports and track and manage issues throughout the software development lifecycle. My responsibilities included documenting bug descriptions, steps to reproduce, expected and actual results, assigning severity levels, and collaborating with developers to ensure timely resolution. This process ensured the delivery of high-quality software and enhanced team efficiency.
 - [Bug report work example](https://docs.google.com/spreadsheets/d/15h974q6W-WX1D9AgTo_ViQe4ylI63nJ6CG2I-xFiqLw/edit?usp=sharing)
