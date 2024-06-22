@@ -70,7 +70,7 @@ I have my Resume to download [Milan Resume](https://docs.google.com/document/d/1
 |Mini test automation using Python, Selenium, and Pytest|[careerist](https://app.careerist.com/auth/login)
 |Manual Software Testing| [SDET- QA from Youtube](https://www.youtube.com/watch?v=oOvURgHcd4w&list=PLUDwpEzHYYLseflPNg0bUKfLmAbO2JnE9)
 |Manual and Automation (UFT) QA Course           |Greatoriginit.com
-|Selenium WebDriver with Java -Basics to Advanced+Frameworks|[From Udemy](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/?couponCode=24T6MT62024)
+|Selenium WebDriver with Java -Basics to Advanced+Frameworks|[By Rahul Shetty-Udemy](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/?couponCode=24T6MT62024)
 ## Examples Of my work
   ### Test Cases
 As a Software QA Engineer, I have developed and executed comprehensive test cases to ensure software quality and performance. My test cases encompass a variety of testing methodologies, including functional testing, regression testing, integration testing, performance/load testing, and user acceptance testing. Each test case is meticulously crafted to cover different scenarios and edge cases, ensuring thorough validation of application functionalities.
