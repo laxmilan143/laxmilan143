@@ -8,7 +8,7 @@
    *   [Test cases](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#test-cases)
    *   [Bug report](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#bug-report)
    *   [Scripts for PICT (Pairwise testing)](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#scripts-for-pict-pairwise-testing)
-* [Books I have read](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#bug-report-and-work-in-jira)
+* [Books I have read](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#books-i-have-read)
 
 
 
