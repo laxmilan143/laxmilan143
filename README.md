@@ -20,7 +20,7 @@
 I am an experienced Software QA Engineer committed to elevating software quality through meticulous testing, comprehensive bug tracking, and efficient problem resolution. Dedicated to ensuring robust and reliable software performance by leveraging extensive knowledge of manual and automated testing methodologies.
 
 ## CV
-I have my Resume to download [Milan Resume](https://docs.google.com/document/d/1UK_H7If0iaUwAHD2DP2HYFtl4aNhrusm/edit?usp=sharing&ouid=110714264034552910603&rtpof=true&sd=true)
+I have my Resume to download [Milan Resume](https://docs.google.com/document/d/1-tPP5pzRYv6h8ZkYNaMA-rc-4OyR5YzM/edit?usp=sharing&ouid=110714264034552910603&rtpof=true&sd=true)
 
 
 ## Skills
