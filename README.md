@@ -8,7 +8,6 @@
    *   [Test cases](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#test-cases)
    *   [Bug report](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#bug-report)
    *   [Scripts for PICT (Pairwise testing)](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#scripts-for-pict-pairwise-testing)
-* [Books I have read](https://github.com/laxmilan143/laxmilan143/blob/main/README.md#books-i-have-read)
 
 
 
@@ -82,4 +81,3 @@ As a Software QA Engineer, I utilized Jira to create detailed bug reports and tr
 - [1. Bug report work example](https://docs.google.com/spreadsheets/d/15h974q6W-WX1D9AgTo_ViQe4ylI63nJ6CG2I-xFiqLw/edit?usp=sharing)
 - [2. Bug report work example](https://docs.google.com/spreadsheets/d/1afxguD3vdMT2iZST0fpziBPTAyI5wONSPLac903zLa8/edit?usp=sharing)
   ### Scripts for PICT (Pairwise testing)
-## Books I have read
